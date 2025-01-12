@@ -1,0 +1,16 @@
+- Funcionalidades implementadas:
+  - Obtención de tasas de cambio en tiempo real utilizando ExchangeRate-API.
+  - Conversión de USD a monedas populares de Latinoamérica.
+  - Almacenamiento y manejo del historial de conversiones en un archivo JSON.
+
+- Organización modular del proyecto en clases:
+  - SupportedCurrencies: Lista de monedas soportadas.
+  - ExchangeRateApiClient: Gestión de llamadas a la API.
+  - CurrencyConverter: Realización de cálculos de conversión.
+  - ConversionHistory: Manejo del historial de conversiones en formato JSON.
+  - Menu: Interfaz de menú interactiva y amigable para el usuario.
+  - Main: Punto de entrada de la aplicación.
+
+- Incluido un README explicativo sobre la estructura, uso y configuración del proyecto.
+
+Listo para futuras mejoras y pruebas.
